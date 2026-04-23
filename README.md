@@ -1,7 +1,7 @@
 # 🎵 What Makes a Song Go Viral on Spotify?
 End-to-end analysis of 97,149 Spotify tracks to identify what factors drive song popularity — covering genre, audio features, and content type.
 
-📌 Overview
+# 📌 Overview
 This project analyzes the Spotify Tracks Dataset to answer a core question: what makes a song go viral on Spotify? The analysis covers the full data analytics workflow — from data cleaning and exploratory analysis to statistical correlation and interactive Tableau dashboard.
 
 # ❓ Research Questions
