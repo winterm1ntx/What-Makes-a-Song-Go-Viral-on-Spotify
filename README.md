@@ -57,7 +57,7 @@ Going viral on Spotify is not about how a song sounds technically. Popularity is
 •  Focus on factors outside the data — artist reputation, quality of songwriting, and promotion strategy likely matter more than audio characteristics alone.
 
 # 📊 Dashboard Preview
-![Dashboard](Screenshot 2026-04-23 124932.png)
+![Dashboard](Visualisasi.png)
 
 # 📁 File Structure
 ├── spotify_viral_analysis.ipynb   # Main notebook (cleaning, EDA, correlation)
