@@ -49,7 +49,9 @@ Going viral on Spotify is not about how a song sounds technically. Popularity is
 
 # ✅ Recommendations
 •  Do not rely on audio formulas to predict viral success — danceability, energy, and tempo have negligible impact on popularity.
+
 •  Genre is not a reliable predictor — choosing pop or k-pop does not guarantee higher popularity.
+
 •  Focus on factors outside the data — artist reputation, quality of songwriting, and promotion strategy likely matter more than audio characteristics alone.
 
 # 📁 File Structure
