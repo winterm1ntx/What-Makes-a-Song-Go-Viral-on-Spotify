@@ -15,7 +15,9 @@ This project analyzes the Spotify Tracks Dataset to answer a core question: what
 
 # 📂 Dataset
 •  Source: Spotify Tracks Dataset (Kaggle)
+
 •  Raw records: 114,000 tracks across 114 genres
+
 •  After cleaning: 97,149 tracks
 ## Cleaning criteria:
 •  Removed 3 rows with null values
